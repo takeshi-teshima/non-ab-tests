@@ -9,13 +9,14 @@ In development. Not yet released. Therefore, not relevant to your project (yet).
 This library makes your life easier with scientific product delivery designs other than simple A/B testing.
 
 Currently implements:
-- [Interim analysis](https://en.wikipedia.org/wiki/Interim_analysis)
-- [Stepped wedge trials](https://www.bmj.com/content/350/bmj.h391)
-- [Group sequential tests](https://engineering.atspotify.com/2023/03/choosing-sequential-testing-framework-comparisons-and-discussions)
-- [Test-and-roll](https://dl.acm.org/doi/abs/10.1287/mksc.2019.1194)
+(None)
 
 List under consideration:
-- [Adaptive designs](https://www.fda.gov/media/78495/download)
+- [Interim analysis](https://en.wikipedia.org/wiki/Interim_analysis)
+- [Test-and-roll](https://dl.acm.org/doi/abs/10.1287/mksc.2019.1194)
+- [Stepped wedge trials](https://www.bmj.com/content/350/bmj.h391)
+- [Group sequential tests](https://engineering.atspotify.com/2023/03/choosing-sequential-testing-framework-comparisons-and-discussions)
+- [Other adaptive designs](https://www.fda.gov/media/78495/download)
 
 ### Learning Materials
 
